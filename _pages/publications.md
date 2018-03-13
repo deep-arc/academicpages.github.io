@@ -16,8 +16,8 @@ author_profile: true
 {% endfor %}
 
 - Spatial, Temporal, and Textual Retrieval and Analysis of Geotagged Posts.
-- Paras Mehta
-- Ph.D. Thesis, Freie Universität Berlin, 2017.
+Paras Mehta
+Ph.D. Thesis, Freie Universität Berlin, 2017.
 
 - Continuous Summarization of Streaming Spatio-Textual Posts.
 - Dimitris Sacharidis, Paras Mehta, Dimitrios Skoutas, Kostas Patroumpas, Agnès Voisard.
