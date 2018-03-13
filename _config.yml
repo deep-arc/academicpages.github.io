@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Paras Mehta"
-  avatar           : "photo.jpg"
+  avatar           : "images/photo.jpg"
   bio              : "Research Assistant at FU Berlin"
   location         : "Berlin, Germany"
   employer         :
