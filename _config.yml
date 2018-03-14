@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Paras Mehta"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Paras"
 description              : &description "personal description"
 url                      : https://deep-arc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Paras Mehta"
-  avatar           : "images/photo.jpg"
-  bio              : "Research Assistant at FU Berlin"
+  avatar           : "photo.jpg"
+  bio              : "Research Assistant at FU Berlin. Geographic information retrieval and applied machine learning."
   location         : "Berlin, Germany"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
