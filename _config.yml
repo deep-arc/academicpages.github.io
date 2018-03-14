@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Paras Mehta"
 title_separator          : "-"
-name                     : &name "Paras"
+name                     : &name "Paras Mehta"
 description              : &description "personal description"
 url                      : https://deep-arc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
