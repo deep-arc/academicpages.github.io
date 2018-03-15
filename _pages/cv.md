@@ -25,11 +25,11 @@ Education
 Work experience
 ======
 * 2015-till date: Research Assistant  
-    Databases and Information Systems group, FU Berlin.
+    Databases and Information Systems group, Freie Universitaet Berlin.
     EU H2020 project City.Risks.
 
 * 2012-2014: Research Assistant  
-    Databases and Information Systems group, FU Berlin.  
+    Databases and Information Systems group, Freie Universitaet Berlin.  
     EU Marie Curie project GEOCROWD.
 
 * 2011: Senior Software Engineer  
