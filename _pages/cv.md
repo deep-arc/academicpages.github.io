@@ -24,15 +24,37 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-till date: Research Assistant  
+    Databases and Information Systems group, FU Berlin.
+    EU H2020 project City.Risks.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012-2014: Research Assistant  
+    Databases and Information Systems group, FU Berlin.  
+    EU Marie Curie project GEOCROWD.
+
+* 2011: Senior Software Engineer  
+    Consult Hyperion, Guildford, UK.
+    
+* 2008-2010: Software Engineer
+    Consult Hyperion, Guildford, UK.
+
+* Summer 2007: Intern
+    Indra Sistemas, Madrid, Spain.
+
+* Jan-Mar 2006: Intern
+    Flextronics Software Systems (now Aricent), India.
+ 
+* Summer 2005: Intern
+Robotic Intelligence Lab, Jaume-I University, Spain.
+#* Summer 2015: Research Assistant
+#  * Github University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
+#
+#* Fall 2015: Research Assistant
+#  * Github University
+#  * Duties included: Merging pull requests
+#  * Supervisor: Professor Hub
   
 Skills
 ======
