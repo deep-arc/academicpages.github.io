@@ -46,3 +46,11 @@ Work experience
  
 * Summer 2005: Intern  
 Robotic Intelligence Lab, Jaume-I University, Spain.
+
+Awards
+=======
+* Third place in GIS Cup 2016.
+* Winner of the Web Science'16 Hackathon.
+* Marie Curie fellowship for PhD.
+* First position in MSc programme.
+* Erasmus Mundus scholarship for MSc.
