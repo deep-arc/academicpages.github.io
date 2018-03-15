@@ -57,33 +57,33 @@ Robotic Intelligence Lab, Jaume-I University, Spain.
 [comment]: #  * Duties included: Merging pull requests
 [comment]: #  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[comment]: Skills
+[comment]: ======
+[comment]: * Skill 1
+[comment]: * Skill 2
+[comment]:   * Sub-skill 2.1
+[comment]: * Sub-skill 2.2
+[comment]:   * Sub-skill 2.3
+[comment]: * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: Publications
+[comment]: ======
+[comment]: <ul>{% for post in site.publications %}
+[comment]:     {% include archive-single-cv.html %}
+[comment]: {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+[comment]: Talks
+[comment]: ======
+[comment]: <ul>{% for post in site.talks %}
+[comment]:     {% include archive-single-talk-cv.html %}
+[comment]: {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[comment]: Teaching
+[comment]: ======
+[comment]: <ul>{% for post in site.teaching %}
+[comment]:     {% include archive-single-cv.html %}
+[comment]: {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[comment]: Service and leadership
+[comment]: ======
+[comment]: * Currently signed in to 43 different slack teams
