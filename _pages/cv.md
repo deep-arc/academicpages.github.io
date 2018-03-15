@@ -11,10 +11,20 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Engineering (B.E.) in Electronics and Communication, Delhi College of Engineering (now Delhi Technological University), India, 2006.
-* M.Sc. in Computer Science, jointly awared by University of Reading (UK), Universidad Carlos III (Spain), and Aristotle University (Greece), 2008.
+* Bachelor of Engineering (B.E.) in Electronics and Communication
+  
+  Delhi College of Engineering (now Delhi Technological University), India, 2006.
+
+* M.Sc. in Computer Science
+  
+  Jointly awared by University of Reading (UK), Universidad Carlos III (Spain), and Aristotle University (Greece), 2008.
+  
   Dissertation: Study of security mechanisms for mobile commerce through the development of a mobile banking prototype.
-* Ph.D. in Computer Science, Freie Universitaet Berlin, 2017.
+  
+* Ph.D. in Computer Science
+
+  Freie Universitaet Berlin, 2017.
+  
   Dissertation: Spatial, Textual, and Temporal Retrieval and Analysis of Geotagged Posts.
   
 Work experience
