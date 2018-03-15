@@ -12,3 +12,9 @@ I am a Research Assistant at the Databases and Information Systems group at Frei
 
 Besides work, I enjoy traveling, learning foreign languages, cooking and running. Having lived and worked in 5 countries, I feel at home in multicultural environments.
 
+Recent Updates
+==============
+* Completed the Deep Learning Specialization on Coursera by deeplearning.ai.
+* Finished my Ph.D. (thesis, final grade: magna cum laude).
+* Short paper accepted in ACM SIGSPATIAL 2017.
+* Full paper and demo accepted in EDBT 2017.
